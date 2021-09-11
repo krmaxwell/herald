@@ -1,0 +1,2 @@
+requests==2.26.0
+rss-parser==0.2.3
